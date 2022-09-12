@@ -1,0 +1,11 @@
+C:\Users\Avendaño\source\repos\PerpetuoImpresion\PerpetuoImpresion\bin\Debug\PerpetuoImpresion.exe.config
+C:\Users\Avendaño\source\repos\PerpetuoImpresion\PerpetuoImpresion\bin\Debug\PerpetuoImpresion.exe
+C:\Users\Avendaño\source\repos\PerpetuoImpresion\PerpetuoImpresion\bin\Debug\PerpetuoImpresion.pdb
+C:\Users\Avendaño\source\repos\PerpetuoImpresion\PerpetuoImpresion\bin\Debug\MySql.Data.dll
+C:\Users\Avendaño\source\repos\PerpetuoImpresion\PerpetuoImpresion\bin\Debug\Receipt.dll
+C:\Users\Avendaño\source\repos\PerpetuoImpresion\PerpetuoImpresion\obj\Debug\PerpetuoImpresion.csproj.AssemblyReference.cache
+C:\Users\Avendaño\source\repos\PerpetuoImpresion\PerpetuoImpresion\obj\Debug\PerpetuoImpresion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avendaño\source\repos\PerpetuoImpresion\PerpetuoImpresion\obj\Debug\PerpetuoImpresion.csproj.CoreCompileInputs.cache
+C:\Users\Avendaño\source\repos\PerpetuoImpresion\PerpetuoImpresion\obj\Debug\PerpetuoImpresion.csproj.CopyComplete
+C:\Users\Avendaño\source\repos\PerpetuoImpresion\PerpetuoImpresion\obj\Debug\PerpetuoImpresion.exe
+C:\Users\Avendaño\source\repos\PerpetuoImpresion\PerpetuoImpresion\obj\Debug\PerpetuoImpresion.pdb
